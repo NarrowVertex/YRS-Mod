@@ -1,0 +1,16 @@
+[
+{
+  "modid": "YRS Mod Recreate",
+  "name": "YRS Mod Recreate",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Fnrko_nl25_"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

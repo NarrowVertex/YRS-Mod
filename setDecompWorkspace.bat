@@ -1,0 +1,2 @@
+gradlew setDecompWorkspace eclipse
+Pause
